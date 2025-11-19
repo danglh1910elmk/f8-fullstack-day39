@@ -1,0 +1,9 @@
+{
+    // cấu hình autocomplete khi gõ @
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+            "@/*": ["./*"]
+        }
+    }
+}
